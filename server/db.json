@@ -1,0 +1,504 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Anton",
+      "lastName": "Bruckner",
+      "profilePicture": "https://medicitv-a.imgix.net/artist/anton-bruckner-2.jpg?auto=format&q=85"
+    },
+    {
+      "id": 2,
+      "firstName": "Richard",
+      "lastName": "Wagner",
+      "profilePicture": "https://medicitv-a.imgix.net/artist/anton-bruckner-2.jpg?auto=format&q=85"
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Four Seasons Resort Lanai",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/596e3e3/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Lanai_usn_9.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/15372c8/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Lanai_at_Manele_Bay_usn_6.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/04eb08c/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Lanai_at_Manele_Bay_usn_8.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/a2e6bb5/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Lanai_usn_10.jpg"
+      ],
+      "rate": "$2,200",
+      "description": "This Four Seasons property attracts beach lovers. Positioned along a beautiful stretch of Hulopoe Bay sand overlooking the Pacific Ocean, this resort offers breathtaking ocean views, manicured grounds and top-notch customer service. During their stays, guests can enjoy outdoor pursuits, such as snorkeling, deep-sea fishing, hiking, whale watching, scuba diving and more. Visitors use terms like \"paradise\" and \"heaven on earth\" to describe the property. Guest rooms all feature private patios, as well as amenities like 75-inch flat-screen TVs with Blu-ray players, Nespresso machines and free internet access. One of the most loved features is the complimentary shuttle, which will cart you to and from Lanai Town. Recent visitors do say you should brace yourself for the high cost of meals at the resort's multiple restaurants and treatments at the in-house spa. Still, most travelers enjoy this Four Seasons resort's piece of shoreline and its world-class golf course.",
+      "address": "1 Manele Bay Road",
+      "city": "Lanai City",
+      "state": "HI",
+      "zipcode": "96763"
+    },
+    {
+      "id": 2,
+      "name": "Acqualina Resort & Residences on the Beach",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/58ab9f7/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Acqualina_Resort_Spa_on_the_Beach_usn_11.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/2e05fde/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Acqualina_Resort_Spa_on_the_Beach_usn_12.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/6eae429/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Acqualina_Resort_Spa_on_the_Beach_usn_13.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/42a252d/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Acqualina_Resort_Spa_on_the_Beach_usn_14.jpg"
+      ],
+      "rate": "",
+      "description": "This spa resort doesn't take any of its five stars for granted, particularly when it comes to delivering first-rate customer service. Guests can't help but keep the compliments coming: Travelers say the resort staff takes extra care to personalize each experience. However, one problem you might face is exclusivity. Acqualina Resort & Residences on the Beach only has 98 guest rooms and suites, so be sure to book early for an upcoming trip to Sunny Isles Beach, Florida. The rooms come with flat-screen TVs and private balconies, as well as double sinks and glass-enclosed showers. Meanwhile, the property also features two in-house eateries, a grab-and-go market, four pools, a spa and beach amenities. What's more, the hotel is part of The Leading Hotels of the World, meaning Leaders Club members have access to perks here. You'll find Acqualina Resort & Residences on the Beach about 10 miles north of Miami Beach.",
+      "address": "17875 Collins Ave.",
+      "city": "Sunny Isles Beach",
+      "state": "FL",
+      "zipcode": "33160-2718"
+    },
+    {
+      "id": 3,
+      "name": "The Peninsula Chicago",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/424107c/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Capture_sioXnUo.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/e5ba795/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/openpublicdocument_2.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/fb40282/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/openpublicdocument_3.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/5235ca0/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/openpublicdocument_1.jpg"
+      ],
+      "rate": "$425",
+      "description": "Occupying prime real estate on Chicago's coveted Magnificent Mile, The Peninsula Chicago combines Hong Kong's cosmopolitan flair with the Windy City's Midwestern charm. Travelers describe the guest rooms as comfortable thanks to their creamy color palette and plush furniture, not to mention their modern techie touches, like a bedside remote command station that controls the lights, television and room temperatures. Meanwhile, the renowned Peninsula Spa is in a class by itself, earning The Peninsula Chicago many accolades from health and leisure magazines. Another honorable mention goes to the afternoon tea served in the lobby bar, which visitors say is a nice and welcome touch. During your stay, guests recommend making time for the tasty Cantonese dishes served in the Shanghai Terrace restaurant. However, for many travelers, it was The Peninsula Chicago's friendly service staff that convinced them to stay here again.",
+      "address": "108 E Superior St at North Michigan Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "zipcode": "60611-2645"
+    },
+    {
+      "id": 4,
+      "name": "The Beverly Hills Hotel",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/8fc91c1/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Beverly_Hills_Hotel_usn_8.jpg",
+      "pictures": [
+        "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-13158-4.svg",
+        "https://travel.usnews.com/dims4/USNEWS/129f943/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Beverly_Hills_Hotel_usn_5.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/650261d/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Beverly_Hills_Hotel_usn_6.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/7d2ee2e/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Beverly_Hills_Hotel_usn_7.jpg"
+      ],
+      "rate": "$855",
+      "description": "The Beverly Hills Hotel is iconic to La-La Land lore, made famous by The Eagles tune \"Hotel California.\" But the Pink Palace has racked up quite a few fabled stories: Katharine Hepburn is said to have jumped into the pool fully clothed, and Elizabeth Taylor enjoyed six honeymoons here. Today, this Dorchester Collection hotel continues to cater to discerning travelers with stylish guest rooms (equipped with marble bathrooms, flat-screen TVs, high-speed internet access and gourmet minibars), business amenities and a supreme Sunset Boulevard location. Travelers say the customer service is just as legendary as the hotel itself, praising the hotel staff for its attentiveness. And the on-site Polo Lounge is not only known for its celeb-spotting – it's known for serving up a mean breakfast as well.",
+      "address": "9641 Sunset Blvd",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "zipcode": "90210-2938"
+    },
+    {
+      "id": 5,
+      "name": "The Langham, Chicago",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/e0b8a65/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Langham_Chicago_usn_5.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/88ccb2d/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Langham_Chicago_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/a357883/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Langham_Chicago_usn_10.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/2bd5236/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Langham_Chicago_usn_11.jpg"
+      ],
+      "rate": "$340",
+      "description": "Situated on the banks of the Chicago River and less than a mile from the shopping on The Magnificent Mile, The Langham, Chicago is a hit with recent travelers. Opened in 2013, the hotel impresses guests with its attentive service, quiet location and riverfront views. Occupying the first 13 floors of a 52-story landmark skyscraper, The Langham, Chicago boasts 316 guest rooms and suites. Accommodations are outfitted with soaking tubs and rain showers, flat-screen TVs and complimentary Wi-Fi access. Past lodgers compliment the comfy beds and relaxing bathrooms and recommend booking a room with a river view to make the most of the hotel's location. When you're not relaxing in your room, you'll find plenty of other amenities at your fingertips. In addition to the Chuan Spa, the hotel also touts a health club and 67-foot-long indoor pool. Though many of downtown Chicago's top restaurants are within reach, previous visitors suggest giving the on-site restaurant, Travelle, a try. As is the case throughout the property, guests say the service staff members at the restaurant are both attentive and friendly.",
+      "address": "330 North Wabash Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "zipcode": "60611"
+    },
+    {
+      "id": 6,
+      "name": "Four Seasons Hotel Washington, DC",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/a6d7564/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Hotel_Washington_DC_usn_2.jpg",
+      "pictures": [
+        "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-13158-4.svg",
+        "https://travel.usnews.com/dims4/USNEWS/fc0961d/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Washington_DC_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/bcde5e7/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://images.trvl-media.com/hotels/1000000/20000/14500/14427/258ba7b5_z.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/4b9e2e8/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://images.trvl-media.com/hotels/1000000/20000/14500/14427/99feb77b_z.jpg"
+      ],
+      "rate": "$768",
+      "description": "The Four Seasons' enviable location – perched on the edge of Rock Creek Park in D.C.'s chic Georgetown neighborhood – grants beautiful views of the park and easy access to some of the city's most popular attractions, including the Lincoln Memorial and the John F. Kennedy Center for the Performing Arts. But that's not all this elegant Four Seasons property has going for it. Recent guests compliment the hotel's contemporary accommodations, which come furnished with modern amenities like LCD flat-screen TVs and high-speed internet access. Travelers visiting with kids love that the hotel has Nintendo Wii game consoles available to borrow as well. Guests also exalt Bourbon Steak, the upscale in-house restaurant that regularly plays host to foodies, celebrities and politicos alike. Another crowd-pleaser: the luxurious on-site spa, which offers a versatile array of lavish massages and body treatments. All recent guests agreed that the personalized customer service was a large reason for return visits. Just try to leave your car at home, as this hotel has expensive parking fees.",
+      "address": "2800 Pennsylvania Ave NW",
+      "city": "Washington",
+      "state": "DC",
+      "zipcode": "20007-3717"
+    },
+    {
+      "id": 7,
+      "name": "Four Seasons Resort Maui at Wailea",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/136269f/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Maui_at_Wailea_usn_16.jpg",
+      "pictures": [
+        "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-13158-4.svg",
+        "https://travel.usnews.com/dims4/USNEWS/f172ec1/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Maui_at_Wailea_usn_10.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/b662531/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Maui_at_Wailea_usn_11.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/38b4f6c/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Maui_at_Wailea_usn_12.jpg"
+      ],
+      "rate": "$2,200",
+      "description": "This Four Seasons Resort underwent a major renovation in 2016 that has impressed recent visitors. Guests say the staff here is consistently attentive and helpful, too. Guest rooms also receive high praise for their spacious floor plans and private balconies or patios. Plus, accommodations feature wireless internet access, an evening turndown service and luxury bath amenities. What's more, this Four Seasons outpost is one of Maui's most kid-friendly locales, offering complimentary kids toiletries, a popular game room and kid-friendly menus in its four on-site restaurants. Those traveling without little ones can make the most of the resort's spa and the property's proximity to three scenic golf courses. Or, spend your days lounging on the island's shoreline where service staff will ensure you have enough ice water and towels to keep you feeling cool and comfortable. The only gripe guests had was with the high room rates at this hotel, particularly during peak seasons. As its name suggests, Maui's Four Seasons sits pretty on Wailea Beach.",
+      "address": "3900 Wailea Alanui Drive",
+      "city": "Wailea",
+      "state": "HI",
+      "zipcode": "96753"
+    },
+    {
+      "id": 8,
+      "name": "The Jefferson, Washington, DC",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/2db1569/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Jefferson_Washington_DC_usn_30.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/e3bc99b/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Jefferson_Washington_DC_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/d8da63a/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Jefferson_Washington_DC_usn_10.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/39c9e71/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Jefferson_Washington_DC_usn_11.jpg"
+      ],
+      "rate": "",
+      "description": "The Jefferson, Washington, DC has been catering to Washington's most elite visitors since 1923, providing a taste of European luxury in the heart of the United States capital. The Beaux-Arts era reigns supreme here, with early 20th century paintings and sculptures lining the checkered floors. The Jefferson's elegant accommodations are appointed with iPads, walk-in showers, flat-screen TVs and complimentary Wi-Fi access. (For a little more space, upgrade to a suite, which will come equipped with a coffee maker and, in some, balconies overlooking the Washington Monument.) Recent guests highly recommend making good use of the intimate on-site spa during your stay, and the in-house gourmet restaurants, Plume and The Greenhouse, earn particularly high praise, along with the on-site bar, Quill. Visitors also give props for The Jefferson's location, which is just a short walk from the National Mall.",
+      "address": "1200 16th Street NW",
+      "city": "Washington",
+      "state": "DC",
+      "zipcode": "20036-3202"
+    },
+    {
+      "id": 9,
+      "name": "Rancho Valencia Resort & Spa",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/476b3a2/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Rancho_Valencia_Resort_Spa_usn_12.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/dd84968/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Rancho_Valencia_Resort_Spa_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/38d34d5/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Rancho_Valencia_Resort_Spa_usn_10.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/bc859a8/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Rancho_Valencia_Resort_Spa_usn_11.jpg"
+      ],
+      "rate": "$999",
+      "description": "About a 30-minute drive north of San Diego, Rancho Valencia is a little off the beaten path. But that's why people love it. This Relais & Châteaux property brims with carefully manicured greenery on top of plenty of amenities and activities to woo any type of traveler. Visitors are complimentary of the respectful, thoughtful staff while guest rooms stun for their aesthetic. Accommodations here exude a Mediterranean ambiance with hacienda-style architecture, hardwood furnishings and colorful design accents, as well as deep-soaking tubs and private balconies or patios. For pampering, Rancho Valencia's spa offers indulgences such as herb-infused body wraps and a variety of massage therapies. The delicious cuisine served at the on-site Veladora restaurant complements the serene environment.",
+      "address": "5921 Valencia Cir",
+      "city": "Rancho Santa Fe",
+      "state": "CA",
+      "zipcode": "92067-9520"
+    },
+    {
+      "id": 10,
+      "name": "The Inn & Club at Harbour Town - The Sea Pines Resort",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/d3c9ae5/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Inn_Club_at_Harbour_Town_-_Sea_Pines_Resort_usn_12.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/4711207/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Inn_Club_at_Harbour_Town_-_Sea_Pines_Resort_usn_13.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/52a702c/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Inn_Club_at_Harbour_Town_-_Sea_Pines_Resort_usn_14.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/b6d6ecd/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Inn_Club_at_Harbour_Town_-_Sea_Pines_Resort_usn_15.jpg"
+      ],
+      "rate": "$296",
+      "description": "The stunning Harbour Town area is a great place to station yourself during a Hilton Head trip. And its standout accommodations, The Inn & Club at Harbour Town (part of The Sea Pines Resort), is certainly one of the most popular resorts on the island. Guests who choose to make the (somewhat long) trek here delight in the lush scenery, the luxurious rooms and the professional, approachable and welcoming staff. Rooms come with large flat-screen TVs, blackout-lined window treatments and spacious bathrooms with soaking tubs and luxury toiletries. Visitors also appreciate the numerous on-site dining options. Harbour Town rests in the bottom boot of Hilton Head Island.",
+      "address": "7 Lighthouse Ln",
+      "city": "Hilton Head Island",
+      "state": "SC",
+      "zipcode": "29928"
+    },
+    {
+      "id": 11,
+      "name": "Four Seasons Resort Orlando at Walt Disney World Resort",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/9656e83/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Orlando_at_Walt_Disney_World_Resort_usn_2.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/d880bbc/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Orlando_at_Walt_Disney_World_Resort_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/c29e8c4/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Orlando_at_Walt_Disney_World_Resort_usn_10.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/c1b4540/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Orlando_at_Walt_Disney_World_Resort_usn_3.jpg"
+      ],
+      "rate": "$905",
+      "description": "The first Four Seasons property to open at Walt Disney World Resort in Orlando, Florida, this resort – which sits about 5 miles southeast of the Magic Kingdom – aims to fill the park's luxury lodging void. And judging by its amenities, the Four Seasons Resort Orlando appears to be succeeding. With its own 18-hole golf course, 13,000-square-foot spa and rooftop steakhouse, the property is well-suited for travelers who want easy access to the theme parks without the over-the-top kitsch associated with Disney-owned properties. That's not to say that the resort doesn't cater to little ones: The property also boasts two 242-foot-long waterslides, a lazy river with two spray cannons, a 7,590-square-foot family pool and the complimentary Kids For All Seasons kids camp. Plus, the Four Seasons Resort Orlando offers its own Disney character breakfasts, complimentary park shuttle service and a Disney Planning Center – a separate concierge desk designed for mapping out your park itinerary and purchasing tickets. Aside from its amenities, this Four Seasons excels in its accommodations, according to recent guests. Rooms are outfitted with marble bathrooms, flat-screen TVs, contemporary decor and complimentary Wi-Fi access. Past travelers also appreciated the customer service team here but were not as pleased with the pricey nightly rates.",
+      "address": "10100 Dream Tree Blvd.",
+      "city": "Orlando",
+      "state": "FL",
+      "zipcode": "32836"
+    },
+    {
+      "id": 12,
+      "name": "The Little Nell",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/00fab9d/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Little_Nell_usn_10.jpg",
+      "pictures": [
+        "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-13158-4.svg",
+        "https://travel.usnews.com/dims4/USNEWS/3dbe0cc/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Little_Nell_usn_3.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/4546140/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Little_Nell_usn_4.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/6931136/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Little_Nell_usn_5.jpg"
+      ],
+      "rate": "$1,525",
+      "description": "Sitting at the base of Aspen Mountain on the southern edge of town, The Little Nell caters to snow junkies with on-site services such as a ski concierge team (who can secure everything from lift tickets to ski rentals) and an equipment storage center. However, guests say that the hotel's proximity to powder isn't the only reason to book. The Little Nell's two in-house restaurants – element47 and Ajax Tavern – earn high praise for their artfully prepared plates, and the hotel spa is ideal for post-skiing relaxation. What's more, The Little Nell is well-equipped to welcome families thanks to a variety of kid-friendly amenities, such as board games, ski and bike rentals, car seats, strollers and more. Although you won't be spending much time indoors, you can look forward to resting up in a spacious and inviting guest room, surrounded by warm, soothing cream-colored hues, a gas fireplace, a well-stocked minibar and a flat-screen TV. And, like they do at The Little Nell's sister property, the Ojai Valley Inn in California, recent guests give the customer service two thumbs up, saying that the hotel's employees were some of the nicest they'd ever met. The only downside? The daily resort fee, which does not cover parking fees.",
+      "address": "675 E Durant Ave",
+      "city": "Aspen",
+      "state": "CO",
+      "zipcode": "81611-2001"
+    },
+    {
+      "id": 13,
+      "name": "The Post Oak Hotel at Uptown Houston",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/40f865c/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Post_Oak_Hotel_at_Uptown_Houston_usn_1.jpg",
+      "pictures": [
+        "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-13158-4.svg",
+        "https://travel.usnews.com/dims4/USNEWS/93226c9/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Post_Oak_Hotel_at_Uptown_Houston_usn_2.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/6e915dc/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Post_Oak_Hotel_at_Uptown_Houston_usn_3.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/f67f948/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Post_Oak_Hotel_at_Uptown_Houston_usn_4.jpg"
+      ],
+      "rate": "$525",
+      "description": "Sleek decor, modern amenities and a standout concierge are just a few reasons why recent guests heap praise upon The Post Oak Hotel at Uptown Houston. The property's 250 rooms and suites are outfitted in warm cocoa, gold and mahogany hues, featuring 50-inch smart TVs, marble bathrooms (also equipped with TVs, plus dual vanities, a tub and a separate shower), free Wi-Fi access and Nespresso coffee machines. Amenities outside the rooms abound as well: The hotel houses a salon, a spa and a fitness center equipped with weight and cardio equipment, including Peloton bikes offering live cycling classes, seasonal wellness events and occasional exercise classes. The pool area, billed as a \"tropical sanctuary,\" is lined with cushioned lounge chairs and cabanas – and travelers say it's another fantastic perk of staying here. When it comes to dining, visitors have their pick of five venues, serving everything from steaks to seafood to French fare. The hotel is also home to a chic lobby bar and The Cellar, which boasts an inventory of 30,000 bottles of wine curated by the property's sommeliers. You'll find The Post Oak Hotel about 7 miles west of downtown Houston. Keep in mind, this hotel is part of the Preferred Hotels & Resorts portfolio, meaning I Prefer Hotel Rewards members can pay for stays with I Prefer reward certificates.",
+      "address": "1600 West Loop South",
+      "city": "Houston",
+      "state": "TX",
+      "zipcode": ""
+    },
+    {
+      "id": 14,
+      "name": "Hotel Bel-Air",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/cab979f/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Hotel_Bel-Air_usn_33.jpg",
+      "pictures": [
+        "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-13158-4.svg",
+        "https://travel.usnews.com/dims4/USNEWS/ce4dbba/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Hotel_Bel-Air_usn_30.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/10e95f8/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Hotel_Bel-Air_usn_31.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/26fef1d/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Hotel_Bel-Air_usn_32.jpg"
+      ],
+      "rate": "$795",
+      "description": "A member of the esteemed Dorchester Hotel collection, Hotel Bel-Air offers Los Angeles lodgers a taste of respite and romance within easy commuting distance of big city sights (though, not much is within walking distance). Sprawling across 12 acres in the Bel Air Estates neighborhood, this luxury hotel adopts the aura of 20th-century glam. With fine Egyptian cotton linens, expansive terraces, lush gardens and an actual Swan Lake, the Hotel Bel-Air is better suited to relaxation seekers than meeting-making movers and shakers. Guests appreciate the property's quiet atmosphere and superb customer service, while the guest rooms and suites win visitors over with bright, airy decor and tech-savvy amenities, such as flat-screen TVs and in-room iPads. Also, the Hotel Bel-Air Spa and the outdoor pool ensure that travelers return home refreshed and rested.",
+      "address": "701 Stone Canyon Rd.",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipcode": "90077-2909"
+    },
+    {
+      "id": 15,
+      "name": "The Peninsula Beverly Hills",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/6a4537e/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Peninsula_Beverly_Hills_usn_7.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/62d8277/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Peninsula_Beverly_Hills_usn_10.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/12aab14/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Peninsula_Beverly_Hills_usn_11.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/257ec97/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Peninsula_Beverly_Hills_usn_12.jpg"
+      ],
+      "rate": "$573",
+      "description": "A favorite among professional and leisure travelers alike, this luxury hotel has an inside edge on other hotels by truly coddling its guests. Why should you have to wait until 3 p.m. to check in? The Peninsula Beverly Hills will make your room available to you whenever you need it – even from the moment your plane lands at Los Angeles International Airport. Do you need to hold onto your room until 8 p.m. on your last day? No problem – The Peninsula also allows you to check out whenever is most convenient for you. And the first-class treatment doesn't end there. This hotel on South Santa Monica Boulevard is also known for its beautiful rooms and suites (which come with free Wi-Fi access, minibars, flat-screen TVs and marble bathrooms), its rejuvenating Peninsula Spa and the mouthwatering fare served at the on-site see-and-be-seen restaurant, The Belvedere. Recent guests describe the hotel as \"perfection\" ... but at a price: room rates here are on the expensive side.",
+      "address": "9882 Santa Monica Blvd",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "zipcode": "90212-1605"
+    },
+    {
+      "id": 16,
+      "name": "Wentworth Mansion",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/64f9dfa/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Wentworth_Mansion_usn_10.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/6124008/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Wentworth_Mansion_usn_11.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/85f1f65/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Wentworth_Mansion_usn_13.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/e019c5e/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Wentworth_Mansion_usn_14.jpg"
+      ],
+      "rate": "",
+      "description": "Guests rave about Wentworth Mansion, applauding its long-standing commitment to the building's history and its ability to deliver on contemporary luxury. Constructed in the late 1800s, the Wentworth Mansion exudes old-world charm, meaning it's also the perfect Charleston home base for history buffs. Lodgers particularly praise the elegant decor, fantastic customer service, on-site spa, evening brandies and sherries, and complimentary hors d'oeuvres. Rooms include spacious bathrooms with whirlpool tubs, fireplaces or outside porches and, in some suites, sunrooms. Though guests say the rooms and overall atmosphere are relaxing, they note that the luxury doesn't come cheap. However, its location is another feather in its cap; The Battery is nearby, as is the South Carolina Aquarium. Also, keep in mind that this hotel is a part of the Small Luxury Hotels of the World, which means that members of the INVITED rewards program can earn and redeem points here.",
+      "address": "149 Wentworth St",
+      "city": "Charleston",
+      "state": "SC",
+      "zipcode": "29401-1733"
+    },
+    {
+      "id": 17,
+      "name": "The Peninsula New York",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/c81d25b/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Peninsula_New_York_usn_3.jpg",
+      "pictures": [
+        "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-13158-4.svg",
+        "https://travel.usnews.com/dims4/USNEWS/e3717c3/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Peninsula_New_York_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/7ccd4d7/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Peninsula_New_York_usn_4.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/d9e1bbf/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Peninsula_New_York_usn_5.jpg"
+      ],
+      "rate": "",
+      "description": "Midtown Manhattan's golden Peninsula calls itself a \"cocoon of peace and quiet\" amid the fray on Fifth Avenue. And recent travelers agree, though they contend that it's an expensive cocoon. Highlights include free internet access, the rooftop terrace Salon de Ning (which offers stunning city views), and a highly acclaimed spa and health club. But that's not all this ultra-luxurious hotel has going for it. Previous visitors cited the top-notch service, spectacular vistas and enviable location (just steps away from Central Park and Rockefeller Center) as equally compelling reasons to return. Others described the property as elegant and serene, praising the hotel's calming color palette and extra touches found in each of the accommodations, such as stocked minibars, marble baths, cozy robes and slippers, and sleek flat-screen TVs. Recent visitors also raved about the delectable dishes and sophisticated atmosphere offered at the hotel's dining establishments, the Clement Restaurant and the Gotham Lounge.",
+      "address": "700 Fifth Avenue at 55th Street",
+      "city": "New York",
+      "state": "NY",
+      "zipcode": "10019"
+    },
+    {
+      "id": 18,
+      "name": "The Sanctuary at Kiawah Island Golf Resort",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/e5f60f7/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Sanctuary_at_Kiawah_Island_Golf_Resort_usn_1.jpg",
+      "pictures": [
+        "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-13158-4.svg",
+        "https://travel.usnews.com/dims4/USNEWS/9d0ab5d/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Sanctuary_at_Kiawah_Island_Golf_Resort_usn_10.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/c82d578/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Sanctuary_at_Kiawah_Island_Golf_Resort_usn_11.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/20a838b/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Sanctuary_at_Kiawah_Island_Golf_Resort_usn_12.jpg"
+      ],
+      "rate": "",
+      "description": "If you want a quiet, stress-free getaway, The Sanctuary at Kiawah Island Golf Resort might be just the place. Sitting right on the shores of the Atlantic Ocean, this hotel is a destination unto itself. Sun-seekers will feel right at home here with five championship golf courses and plenty of outdoor recreational activities, while on-site amenities like the spa will make your stay on Kiawah Island rejuvenating. When it's time to sleep, rooms include Italian linens and robes, marble walk-in showers and a balcony with ocean or dune views. Recent guests recommended splurging on an ocean-view room to fully appreciate the hotel's idyllic setting. But if you're hoping to explore Charleston, be warned this hotel is located approximately 25 miles south of the city. Keep in mind that members of the I Prefer Hotel Rewards program can earn and redeem points by choosing to stay here.",
+      "address": "1 Sanctuary Beach Dr",
+      "city": "Kiawah Island",
+      "state": "SC",
+      "zipcode": "29455-5434"
+    },
+    {
+      "id": 19,
+      "name": "The St. Regis Bal Harbour Resort",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/a2edaa1/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_St_Regis_Bal_Harbour_Resort_usn_1.jpg",
+      "pictures": [
+        "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-13158-4.svg",
+        "https://travel.usnews.com/dims4/USNEWS/35d720f/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_St_Regis_Bal_Harbour_Resort_usn_11.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/a26e714/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_St_Regis_Bal_Harbour_Resort_usn_13.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/40fdd06/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_St_Regis_Bal_Harbour_Resort_usn_14.jpg"
+      ],
+      "rate": "$1,289",
+      "description": "Although it only opened its doors in 2012, The St. Regis Bal Harbour Resort has made a lasting impression on Miami Beach, Florida, visitors. Travelers describe their experiences here as phenomenal, primarily due to the property's attentive staff and prime location. Overlooking the Atlantic Ocean from its seat in Bal Harbour (about 10 miles north of South Beach), this member of the St. Regis Hotels family provides a less frenzied setting much appreciated by couples and travelers with children. Guest rooms are spacious (albeit pricey thanks to the $45 daily resort fee) and feature neutral hues and private furnished balconies, as well as high-tech amenities like flat-screen TVs with DVD players and tablets for controlling lights, blinds and thermostats. When you're not bedding down, you can pass the time at one of two outdoor pools, the 14,000-square-foot Remède Spa or the adjacent 1,000-foot-long beach. The resort also features three on-site restaurants, including one with a wine vault. And because The St. Regis Bal Harbour Resort is part of the Marriott hotel family, Marriott Bonvoy members can earn and use points here.",
+      "address": "9703 Collins Ave.",
+      "city": "Bal Harbour",
+      "state": "FL",
+      "zipcode": "33154-2243"
+    },
+    {
+      "id": 20,
+      "name": "Fairmont Grand Del Mar",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/284008f/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Grand_Del_Mar_usn_12.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/4223118/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Grand_Del_Mar_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/dcc30a3/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Grand_Del_Mar_usn_10.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/bda2a0e/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/The_Grand_Del_Mar_usn_11.jpg"
+      ],
+      "rate": "$622",
+      "description": "About 20 miles north of central San Diego in Los Peñasquitos Canyon Preserve, the Fairmont Grand Del Mar offers coastal California visitors a hearty helping of luxury from the moment they enter the lobby. Guests rave about the incredibly spacious guest rooms, saying that the deep-soaking tubs, Nespresso coffee makers and rich Tuscan decor makes for a relaxing stay. And if that isn't enough, there's also a five-star spa, swimming pools and a Tom Fazio-designed golf course. The Grand Del Mar also receives high marks for its cuisine; the hotel's Addison and Amaya restaurants respectively serve award-winning French and Mediterranean fare coupled with regional wines. Add to that the hotel's consistently friendly customer service, and it's easy to see why guests frequently refer to their stays here as five-star experiences. As a part of the All -Acor Live Limitless program, this hotel allows loyalty program members to earn and redeem perks.",
+      "address": "5300 Grand Del Mar Court",
+      "city": "San Diego",
+      "state": "CA",
+      "zipcode": "92130"
+    },
+    {
+      "id": 21,
+      "name": "Four Seasons Resort Hualalai",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/29f3f35/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Hualalai_at_Historic_Kaupulehu_usn_6.jpg",
+      "pictures": [
+        "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-13158-4.svg",
+        "https://travel.usnews.com/dims4/USNEWS/75ba662/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Hualalai_at_Historic_Kaupulehu_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/dbc919a/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Hualalai_at_Historic_Kaupulehu_usn_2.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/9aa8dde/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Four_Seasons_Resort_Hualalai_at_Historic_Kaupulehu_usn_3.jpg"
+      ],
+      "rate": "$1,275",
+      "description": "Just northeast of Kekaha Kai State Park, the Four Seasons Resort Hualalai is one of the most luxurious resorts on the Big Island. Recent visitors suggested indulging in the Hualalai Spa, which features spa treatments with island twists, like a Polynesian Niu (Coconut) Scrub or a Sun Relief Ti Leaf Wrap. Meanwhile, the resort's seven unique swimming spots – from a saltwater pond with a few friendly manta rays to an oceanfront infinity pool – earn high marks across the board. Should you be interested in learning more about Hawaiian life, the Ka'upulehu Cultural Center offers interactive programs that give insight into the island's history, traditions and even music. After a long day of learning (or relaxing), enjoy a fresh seafood meal at one of multiple restaurants or lounges before retiring to your room. Accommodations at this Four Seasons resort feature nature-inspired hues and Hawaiian art, as well as balconies, granite bathrooms and plasma TVs. Although recent guests won't deny that room rates and dining costs here are high, they say that the Four Seasons Resort Hualalai's facilities and customer service are worth the price.",
+      "address": "72-100 Ka'upulehu Drive",
+      "city": "Kailua Kona",
+      "state": "HI",
+      "zipcode": "96740"
+    },
+    {
+      "id": 22,
+      "name": "Twin Farms",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/f5df17a/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Twin_Farms_usn_4.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/d0699d2/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Twin_Farms_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/0062c74/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Twin_Farms_usn_2.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/75bf745/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Twin_Farms_usn_3.jpg"
+      ],
+      "rate": "",
+      "description": "This all-inclusive resort in Barnard, Vermont, wows guests with its tranquil atmosphere, ample amenities and impeccable service. Situated nearly 80 miles southeast of Burlington, Twin Farms sits on 300 forested acres and offers just 20 rooms. Lodgers can explore the adults-only property via the resort's bevy of activities, whether it's downhill skiing on Twin Farms' six groomed trails or canoeing across the on-site Copper Pond. What's more, all activities are covered by the resort's all-inclusive rate, along with a host of other amenities, including all meals and alcoholic beverages, Wi-Fi access and evening bonfires with s'mores. Other on-site features include a spa and fitness center, tennis courts and bicycles – perfect for exploring the nearby town of Woodstock. Along with the bountiful activities, reviewers were also impressed with the accommodations, which range from rooms in the Main House to multi-level cottages. No matter which lodging type you choose, you'll find your digs outfitted with at least one fireplace, a fully stocked refrigerator, satellite TV and a selection of games, movies, music and puzzles. While recent visitors raved about the experience of staying at Twin Farms, they also warned that there is a high price to pay for this luxurious seclusion.",
+      "address": "452 Royalton Turnpike",
+      "city": "Barnard",
+      "state": "VT",
+      "zipcode": "05031"
+    },
+    {
+      "id": 23,
+      "name": "Hotel Emma",
+      "starRating": 4.5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/cdd9305/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Hotel_Emma_usn_3.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/64413c8/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Hotel_Emma_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/455f173/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Hotel_Emma_usn_2.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/649b485/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Hotel_Emma_usn_4.jpg"
+      ],
+      "rate": "$510",
+      "description": "Hotel Emma stands out among travelers for its cool culture. This is largely brought on by the hotel's history as a former brewery. In 1916, Pearl's Brewhouse became the largest brewery in Texas, and although its heyday has come and gone, many of the Pearl's original architectural features are still intact. Visitors marvel at the refined industrial elements featured throughout – particularly in the lobby – and are equally impressed with the quality of the accommodations. Guests report rooms to be exceptionally styled and comfortable, thanks to amenities like 48-inch flat-screen TVs, plush beds with Frette linens and luxury bathrobes. And the food is just as much of a staple here as beer used to be. Foodies can take advantage of the on-site concierge for recommendations in the area, or they can grab some house-butchered meats at Larder, enjoy small plates at Sternewirth or sample the farm-to-table fare at Supper. There is also a rooftop pool, a fitness center, a library and a gift shop on-site. Service consistently wows lodgers, as does the hotel's location just 2 miles north of downtown San Antonio.",
+      "address": "136 E Grayson St",
+      "city": "San Antonio",
+      "state": "TX",
+      "zipcode": "78215-1397"
+    },
+    {
+      "id": 24,
+      "name": "Montage Kapalua Bay",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/e8d99b7/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Montage_Kapalua_Bay_usn_10.jpg",
+      "pictures": [
+        "https://travel.usnews.com/dims4/USNEWS/5ce8f88/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Montage_Kapalua_Bay_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/7f188ee/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Montage_Kapalua_Bay_usn_11.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/0810405/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/Montage_Kapalua_Bay_usn_12.jpg"
+      ],
+      "rate": "$1,495",
+      "description": "Travelers are hard-pressed to find much to complain about at the Montage Kapalua Bay. Located on the northwest corner of Maui, this 24-acre property offers panoramic views of the beach and ocean. Visitors can spend their time on the water with activities that range from sport fishing to snorkeling. The resort also offers more adventurous pursuits like zip lining and helicopter tours, as well as traditional Hawaiian luau shows. Other activity options include shopping, golfing on two award-winning courses or playing a round of tennis at the hotel's courts. If you're looking to relax, you can enjoy the complimentary beach towels and chairs, take advantage of the poolside Hana Hou Bar & Sunset Patio or indulge in a spa treatment. Accommodations here are one-, two-, three- or four-bedroom suites and each come equipped with separate living and sleeping areas, and furnished lanais. Additional amenities include flat-screen TVs, in-room laundry facilities and bathrooms with separate tubs and showers. To top off their great experiences, recent guests said all staff members, from the pool attendants to the restaurant servers, went above and beyond to ensure they had a pleasurable stay. Plus, since it's part of the Preferred Hotels & Resorts family, it allows I Prefer members to earn or redeem points for stays.",
+      "address": "1 Bay Dr",
+      "city": "Lahaina",
+      "state": "HI",
+      "zipcode": "96761"
+    },
+    {
+      "id": 25,
+      "name": "Viceroy L'Ermitage Beverly Hills",
+      "starRating": 5,
+      "thumbnail": "https://travel.usnews.com/dims4/USNEWS/5630696/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/LErmitage_Beverly_Hills_usn_9.jpg",
+      "pictures": [
+        "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-13158-4.svg",
+        "https://travel.usnews.com/dims4/USNEWS/62b0266/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/LErmitage_Beverly_Hills_usn_1.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/5b0b977/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/LErmitage_Beverly_Hills_usn_2.jpg",
+        "https://travel.usnews.com/dims4/USNEWS/1956b94/2147483647/resize/600x400^>/crop/600x400/quality/85/?url=https://travel.usnews.com/images/LErmitage_Beverly_Hills_usn_3.jpg"
+      ],
+      "rate": "$544",
+      "description": "Guests of all ages (and pets, too) can expect star treatment at this Viceroy property. Located in the heart of Beverly Hills, L'Ermitage pulls out all the stops, boasting spacious, swanky suites complete with walk-in closets, platform beds, complimentary internet access and private bars. (And for those traveling with pets, the hotel is happy to provide everything from beds to welcome treats.) If you're here on business, the hotel's in-room business centers will ensure your 9-to-5 doesn't suffer from the change of scenery. And for those looking to relax, L'Ermitage boasts a full-service spa and a rooftop pool with 360-degree views of the city. The hotel's on-site eatery, Avec Nous, is a French-style bistro. The hotel's location sandwiched between downtown Los Angeles and Santa Monica puts guests within reasonable driving distance of multiple points of interest, including Venice Beach and the Griffith Observatory. Note that $60 per night, though.",
+      "address": "9291 Burton Way",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "zipcode": "90210"
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "hotelId": 1,
+      "userId": 1,
+      "startDate": "2020-12-03",
+      "endDate": "2020-12-05",
+      "canceled": false
+    },
+    {
+      "id": 2,
+      "hotelId": 3,
+      "userId": 1,
+      "startDate": "2021-01-04",
+      "endDate": "2021-01-06",
+      "canceled": false
+    },
+    {
+      "id": 3,
+      "hotelId": 14,
+      "userId": 1,
+      "startDate": "2021-01-03",
+      "endDate": "2021-01-05",
+      "canceled": true
+    },
+    {
+      "id": 4,
+      "hotelId": 12,
+      "userId": 1,
+      "startDate": "2021-01-16",
+      "endDate": "2021-01-17",
+      "canceled": false
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "hotelId": 1,
+      "userId": 1,
+      "rating": 5,
+      "comments": "Had a blast there last Summer!"
+    },
+    {
+      "id": 2,
+      "hotelId": 1,
+      "userId": 2,
+      "rating": 4,
+      "comments": "The only thing I didn't like was how far away from the beach it is"
+    }
+  ]
+}
